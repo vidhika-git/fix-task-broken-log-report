@@ -29,10 +29,10 @@ Parse an Apache-style access log into a small JSON summary report containing tot
 ### Oracle run (expected: reward 1)
 
 
-```
 <img width="2222" height="988" alt="image" src="https://github.com/user-attachments/assets/e38a5e6f-cbab-4c0a-be33-b33a5dc09116" />
 
 ### Oracle run (expected: reward 0)
+
 <img width="2266" height="934" alt="image" src="https://github.com/user-attachments/assets/11c70dd7-5fa7-4fa3-a75a-f8ad82ad0b5a" />
 
 
